@@ -13,7 +13,7 @@ export default function EntityPage() {
 
   return (
     <div className="grid gap-10 sm:grid-cols-[240px_1fr]">
-      <EntityPhoto id={entity.id} />
+      <EntityPhoto id={entity.id} image={entity.image} alt={entity.name} />
       <div>
         <p className="font-sans text-[11px] tracking-[0.1em] text-ink-faint uppercase">
           {entity.type}

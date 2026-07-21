@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 const PLACEHOLDER_GRADIENTS = [
   "linear-gradient(155deg, #b9ab8a, #6b6355 60%, #443f36)",
   "linear-gradient(155deg, #c2b190, #7a6f5c 55%, #403a30)",
@@ -12,16 +14,27 @@ function pickGradient(id: string) {
 
 interface EntityPhotoProps {
   id: string;
+  image?: string;
+  alt?: string;
   aspect?: string;
 }
 
-export default function EntityPhoto({ id, aspect = "aspect-[4/5]" }: EntityPhotoProps) {
+export default function EntityPhoto({ id, image, alt = "", aspect = "aspect-[4/5]" }: EntityPhotoProps) {
+  const [failed, setFailed] = useState(false);
+  const showImage = image && !failed;
+
   return (
     <div className={`w-full ${aspect} border border-ink p-[6px]`}>
-      <div
-        className="h-full w-full"
-        style={{ background: pickGradient(id), filter: "sepia(0.15)" }}
-      />
+      {showImage ? (
+        <img
+          src={image}
+          alt={alt}
+          onError={() => setFailed(true)}
+          className="h-full w-full object-cover"
+        />
+      ) : (
+        <div className="h-full w-full" style={{ background: pickGradient(id), filter: "sepia(0.15)" }} />
+      )}
     </div>
   );
 }

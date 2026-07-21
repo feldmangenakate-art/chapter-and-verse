@@ -9,7 +9,7 @@
     "profession": "Art collector and gallerist",
     "shortDescription": "American heiress turned collector and gallerist who assembled one of the century's boldest private collections.",
     "description": "Born into the Guggenheim family, Peggy used her inheritance to back Surrealist and early Abstract Expressionist artists at a moment when almost no one else would. She opened galleries in London and New York and eventually settled her collection permanently in Venice.",
-    "image": "/people/peggy-guggenheim.jpg",
+    "image": "/people/peggy-guggenheim.webp",
     "appearances": [
       {
         "bookId": "book-out-of-this-century",
@@ -29,7 +29,7 @@
     "profession": "Painter and sculptor",
     "shortDescription": "German Surrealist painter, briefly married to Guggenheim in the early 1940s.",
     "description": "A founding figure of Dada and Surrealism, Ernst fled occupied France with Guggenheim's help and married her in New York in 1941. The marriage lasted a few years, but his work remained central to her collection long after.",
-    "image": "/people/max-ernst.jpg",
+    "image": "/people/max-ernst.webp",
     "appearances": [
       {
         "bookId": "book-out-of-this-century",
@@ -49,7 +49,7 @@
     "profession": "Painter",
     "shortDescription": "American painter Guggenheim put under contract before the rest of the art world took notice.",
     "description": "Guggenheim gave Pollock his first solo show in 1943 and a monthly stipend that let him paint full-time, betting on an artist almost no one else was backing yet.",
-    "image": "/people/jackson-pollock.jpg",
+    "image": "/people/jackson-pollock.webp",
     "appearances": [
       {
         "bookId": "book-out-of-this-century",
