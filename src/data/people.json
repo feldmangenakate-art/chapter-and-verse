@@ -58,5 +58,65 @@
         "note": "Guggenheim recalls commissioning Mural and putting Pollock on a stipend."
       }
     ]
+  },
+  {
+    "id": "person-marcel-duchamp",
+    "slug": "marcel-duchamp",
+    "name": "Marcel Duchamp",
+    "type": "person",
+    "birthYear": 1887,
+    "deathYear": 1968,
+    "profession": "Artist and advisor",
+    "shortDescription": "French artist who became Guggenheim's most trusted advisor on contemporary art.",
+    "description": "Duchamp had already redefined what a work of art could be with his readymades when he began quietly educating Guggenheim on contemporary art in the late 1930s, helping her plan her first gallery shows and later her Art of This Century collection.",
+    "image": "/people/marcel-duchamp.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "13",
+        "chapterTitle": "Duchamp",
+        "note": "Guggenheim credits Duchamp with teaching her to tell the modern movements apart."
+      }
+    ]
+  },
+  {
+    "id": "person-samuel-beckett",
+    "slug": "samuel-beckett",
+    "name": "Samuel Beckett",
+    "type": "person",
+    "birthYear": 1906,
+    "deathYear": 1989,
+    "profession": "Writer",
+    "shortDescription": "Irish writer and brief lover who urged Guggenheim to collect living artists, not old masters.",
+    "description": "Guggenheim met Beckett in Paris in 1937. Their affair was short, but she credited a single conversation with him, insisting she back the art of her own time, with reorienting her entire collecting strategy.",
+    "image": "/people/samuel-beckett.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "14",
+        "chapterTitle": "Paris",
+        "note": "Beckett's advice to collect contemporary art rather than old masters."
+      }
+    ]
+  },
+  {
+    "id": "person-herbert-read",
+    "slug": "herbert-read",
+    "name": "Herbert Read",
+    "type": "person",
+    "birthYear": 1893,
+    "deathYear": 1968,
+    "profession": "Art historian and critic",
+    "shortDescription": "English art critic who drew up the founding acquisitions list for Guggenheim's planned London museum.",
+    "description": "Read agreed to direct a museum of modern art Guggenheim planned to open in London in 1939, and worked with her on an ambitious list of works to acquire. The war intervened before the museum ever opened.",
+    "image": "/people/herbert-read.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "17",
+        "chapterTitle": "A Museum in London",
+        "note": "Planning the acquisitions list for the abandoned London museum."
+      }
+    ]
   }
 ]

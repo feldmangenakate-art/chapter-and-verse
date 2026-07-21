@@ -19,5 +19,47 @@
         "note": "The commission, the deadline, and the party where it was unveiled."
       }
     ]
+  },
+  {
+    "id": "artwork-bird-in-space-brancusi",
+    "slug": "bird-in-space-brancusi",
+    "name": "Bird in Space",
+    "type": "artwork",
+    "artist": "Constantin Brancusi",
+    "year": "1940",
+    "medium": "Polished bronze",
+    "currentLocation": "Peggy Guggenheim Collection, Venice",
+    "shortDescription": "A polished bronze sculpture Guggenheim bought directly from Brancusi's studio in Paris.",
+    "description": "Guggenheim visited Brancusi's Paris studio and came away with one of his soaring, abstracted bird forms, a sculpture that would later travel with her collection to Venice.",
+    "image": "/artworks/bird-in-space-brancusi.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "15",
+        "chapterTitle": "Brancusi",
+        "note": "Buying the sculpture directly from the artist's studio."
+      }
+    ]
+  },
+  {
+    "id": "artwork-the-antipope-ernst",
+    "slug": "the-antipope-ernst",
+    "name": "The Antipope",
+    "type": "artwork",
+    "artist": "Max Ernst",
+    "year": "1942",
+    "medium": "Oil on canvas",
+    "currentLocation": "Peggy Guggenheim Collection, Venice",
+    "shortDescription": "A strange, crowded canvas Ernst painted not long after marrying Guggenheim.",
+    "description": "Painted the year of their marriage, the canvas is often read as an oblique portrait of their relationship, populated with the horse-headed and bird-headed figures that recur throughout Ernst's work.",
+    "image": "/artworks/the-antipope-ernst.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "19",
+        "chapterTitle": "Max",
+        "note": "One of the paintings from the period of their marriage."
+      }
+    ]
   }
 ]

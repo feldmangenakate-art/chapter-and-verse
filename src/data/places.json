@@ -36,5 +36,43 @@
         "note": "The opening of her first gallery and the exhibitions that followed."
       }
     ]
+  },
+  {
+    "id": "place-paris",
+    "slug": "paris",
+    "name": "Paris",
+    "type": "place",
+    "city": "Paris",
+    "country": "France",
+    "shortDescription": "Where Guggenheim lived through the 1920s and 30s and first entered the circle of Surrealist and modernist artists.",
+    "description": "Guggenheim moved to Paris after the First World War and spent nearly two decades among its writers and painters, a period that shaped both her taste and her circle of friends long before she opened a single gallery.",
+    "image": "/places/paris.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "14",
+        "chapterTitle": "Paris",
+        "note": "Her years living among Paris's artists and writers."
+      }
+    ]
+  },
+  {
+    "id": "place-hayford-hall",
+    "slug": "hayford-hall",
+    "name": "Hayford Hall",
+    "type": "place",
+    "city": "Devon",
+    "country": "United Kingdom",
+    "shortDescription": "A rented country house in Devon where Guggenheim summered with a circle of bohemian writers and artists.",
+    "description": "In the mid-1930s Guggenheim leased Hayford Hall in Devon for several summers, hosting a loose company of writers for long, unstructured stays that she later remembered as some of the happiest of her life.",
+    "image": "/places/hayford-hall.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "10",
+        "chapterTitle": "Hayford Hall",
+        "note": "Summers spent at the rented house with her circle of friends."
+      }
+    ]
   }
 ]
