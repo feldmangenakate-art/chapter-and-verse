@@ -1,0 +1,78 @@
+[
+  {
+    "id": "place-venice",
+    "slug": "venice",
+    "name": "Venice",
+    "type": "place",
+    "city": "Venice",
+    "country": "Italy",
+    "shortDescription": "The unfinished palazzo on the Grand Canal where Guggenheim's collection would eventually live.",
+    "description": "Peggy Guggenheim bought the Palazzo Venier dei Leoni in 1949, a single-story palazzo left unfinished on the Grand Canal. She lived among her collection there for the rest of her life, opening the galleries and garden to the public every summer.",
+    "image": "/places/venice.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "24",
+        "chapterTitle": "The Palace",
+        "note": "Guggenheim describes buying the unfinished palazzo and moving her collection in."
+      }
+    ]
+  },
+  {
+    "id": "place-london-cork-street",
+    "slug": "london-cork-street",
+    "name": "Cork Street, London",
+    "type": "place",
+    "city": "London",
+    "country": "United Kingdom",
+    "shortDescription": "Site of Guggenheim Jeune, Peggy's first gallery, opened in 1938.",
+    "description": "At 30 Cork Street, Guggenheim opened her first gallery, Guggenheim Jeune, with a Cocteau exhibition. It ran for eighteen months and lost money on nearly every show, but launched her as a serious presence in the art world.",
+    "image": "/places/cork-street.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "12",
+        "chapterTitle": "Guggenheim Jeune",
+        "note": "The opening of her first gallery and the exhibitions that followed."
+      }
+    ]
+  },
+  {
+    "id": "place-paris",
+    "slug": "paris",
+    "name": "Paris",
+    "type": "place",
+    "city": "Paris",
+    "country": "France",
+    "shortDescription": "Where Guggenheim lived through the 1920s and 30s and first entered the circle of Surrealist and modernist artists.",
+    "description": "Guggenheim moved to Paris after the First World War and spent nearly two decades among its writers and painters, a period that shaped both her taste and her circle of friends long before she opened a single gallery.",
+    "image": "/places/paris.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "14",
+        "chapterTitle": "Paris",
+        "note": "Her years living among Paris's artists and writers."
+      }
+    ]
+  },
+  {
+    "id": "place-hayford-hall",
+    "slug": "hayford-hall",
+    "name": "Hayford Hall",
+    "type": "place",
+    "city": "Devon",
+    "country": "United Kingdom",
+    "shortDescription": "A rented country house in Devon where Guggenheim summered with a circle of bohemian writers and artists.",
+    "description": "In the mid-1930s Guggenheim leased Hayford Hall in Devon for several summers, hosting a loose company of writers for long, unstructured stays that she later remembered as some of the happiest of her life.",
+    "image": "/places/hayford-hall.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "10",
+        "chapterTitle": "Hayford Hall",
+        "note": "Summers spent at the rented house with her circle of friends."
+      }
+    ]
+  }
+]

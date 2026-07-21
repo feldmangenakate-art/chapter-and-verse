@@ -1,0 +1,62 @@
+[
+  {
+    "id": "event-art-of-this-century-opening",
+    "slug": "art-of-this-century-opening",
+    "name": "Art of This Century gallery opens",
+    "type": "event",
+    "year": "1942",
+    "relatedPlaceIds": [],
+    "relatedPeopleIds": ["person-peggy-guggenheim", "person-jackson-pollock", "person-max-ernst"],
+    "shortDescription": "Guggenheim opens her New York gallery, staging Surrealist and emerging American art side by side.",
+    "description": "Designed with theatrical, curved walls by Frederick Kiesler, Art of This Century became the New York meeting point for European Surrealists in exile and the young American painters Guggenheim was starting to champion.",
+    "image": "/events/art-of-this-century-opening.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "22",
+        "chapterTitle": "Art of This Century",
+        "note": "The gallery's design, opening night, and the artists it brought together."
+      }
+    ]
+  },
+  {
+    "id": "event-marriage-to-max-ernst",
+    "slug": "marriage-to-max-ernst",
+    "name": "Marriage to Max Ernst",
+    "type": "event",
+    "year": "1941",
+    "relatedPlaceIds": [],
+    "relatedPeopleIds": ["person-peggy-guggenheim", "person-max-ernst"],
+    "shortDescription": "Guggenheim and Ernst married in New York after helping him escape occupied France.",
+    "description": "The two married in a civil ceremony in New York in December 1941, shortly after Guggenheim had arranged Ernst's passage out of France. The marriage would last only a few years.",
+    "image": "/events/marriage-to-max-ernst.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "19",
+        "chapterTitle": "Max",
+        "note": "Their wedding in New York."
+      }
+    ]
+  },
+  {
+    "id": "event-london-museum-plan",
+    "slug": "london-museum-plan",
+    "name": "The abandoned London museum",
+    "type": "event",
+    "year": "1939",
+    "relatedPlaceIds": [],
+    "relatedPeopleIds": ["person-peggy-guggenheim", "person-herbert-read"],
+    "shortDescription": "Guggenheim's plan to open a museum of modern art in London, abandoned when war broke out.",
+    "description": "With Herbert Read enlisted as director, Guggenheim was close to signing a lease for a museum space in London when the outbreak of the Second World War forced her to abandon the project entirely.",
+    "image": "/events/london-museum-plan.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "17",
+        "chapterTitle": "A Museum in London",
+        "note": "The museum plan and why it collapsed."
+      }
+    ]
+  }
+]

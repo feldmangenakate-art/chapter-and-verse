@@ -1,0 +1,11 @@
+[
+  {
+    "id": "book-out-of-this-century",
+    "slug": "out-of-this-century",
+    "title": "Out of This Century",
+    "author": "Peggy Guggenheim",
+    "year": 1946,
+    "coverImage": "/books/out-of-this-century.jpg",
+    "description": "Peggy Guggenheim's memoir of collecting art and artists across two continents, from her first gallery in London to the palazzo on the Grand Canal where her collection would finally come to rest."
+  }
+]

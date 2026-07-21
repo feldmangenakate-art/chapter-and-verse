@@ -1,0 +1,122 @@
+[
+  {
+    "id": "person-peggy-guggenheim",
+    "slug": "peggy-guggenheim",
+    "name": "Peggy Guggenheim",
+    "type": "person",
+    "birthYear": 1898,
+    "deathYear": 1979,
+    "profession": "Art collector and gallerist",
+    "shortDescription": "American heiress turned collector and gallerist who assembled one of the century's boldest private collections.",
+    "description": "Born into the Guggenheim family, Peggy used her inheritance to back Surrealist and early Abstract Expressionist artists at a moment when almost no one else would. She opened galleries in London and New York and eventually settled her collection permanently in Venice.",
+    "image": "/people/peggy-guggenheim.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "1-31",
+        "chapterTitle": "throughout",
+        "note": "Narrator and subject of the memoir."
+      }
+    ]
+  },
+  {
+    "id": "person-max-ernst",
+    "slug": "max-ernst",
+    "name": "Max Ernst",
+    "type": "person",
+    "birthYear": 1891,
+    "deathYear": 1976,
+    "profession": "Painter and sculptor",
+    "shortDescription": "German Surrealist painter, briefly married to Guggenheim in the early 1940s.",
+    "description": "A founding figure of Dada and Surrealism, Ernst fled occupied France with Guggenheim's help and married her in New York in 1941. The marriage lasted a few years, but his work remained central to her collection long after.",
+    "image": "/people/max-ernst.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "19",
+        "chapterTitle": "Max",
+        "note": "Their courtship, marriage, and eventual separation."
+      }
+    ]
+  },
+  {
+    "id": "person-jackson-pollock",
+    "slug": "jackson-pollock",
+    "name": "Jackson Pollock",
+    "type": "person",
+    "birthYear": 1912,
+    "deathYear": 1956,
+    "profession": "Painter",
+    "shortDescription": "American painter Guggenheim put under contract before the rest of the art world took notice.",
+    "description": "Guggenheim gave Pollock his first solo show in 1943 and a monthly stipend that let him paint full-time, betting on an artist almost no one else was backing yet.",
+    "image": "/people/jackson-pollock.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "27",
+        "chapterTitle": "Out of the West",
+        "note": "Guggenheim recalls commissioning Mural and putting Pollock on a stipend."
+      }
+    ]
+  },
+  {
+    "id": "person-marcel-duchamp",
+    "slug": "marcel-duchamp",
+    "name": "Marcel Duchamp",
+    "type": "person",
+    "birthYear": 1887,
+    "deathYear": 1968,
+    "profession": "Artist and advisor",
+    "shortDescription": "French artist who became Guggenheim's most trusted advisor on contemporary art.",
+    "description": "Duchamp had already redefined what a work of art could be with his readymades when he began quietly educating Guggenheim on contemporary art in the late 1930s, helping her plan her first gallery shows and later her Art of This Century collection.",
+    "image": "/people/marcel-duchamp.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "13",
+        "chapterTitle": "Duchamp",
+        "note": "Guggenheim credits Duchamp with teaching her to tell the modern movements apart."
+      }
+    ]
+  },
+  {
+    "id": "person-samuel-beckett",
+    "slug": "samuel-beckett",
+    "name": "Samuel Beckett",
+    "type": "person",
+    "birthYear": 1906,
+    "deathYear": 1989,
+    "profession": "Writer",
+    "shortDescription": "Irish writer and brief lover who urged Guggenheim to collect living artists, not old masters.",
+    "description": "Guggenheim met Beckett in Paris in 1937. Their affair was short, but she credited a single conversation with him, insisting she back the art of her own time, with reorienting her entire collecting strategy.",
+    "image": "/people/samuel-beckett.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "14",
+        "chapterTitle": "Paris",
+        "note": "Beckett's advice to collect contemporary art rather than old masters."
+      }
+    ]
+  },
+  {
+    "id": "person-herbert-read",
+    "slug": "herbert-read",
+    "name": "Herbert Read",
+    "type": "person",
+    "birthYear": 1893,
+    "deathYear": 1968,
+    "profession": "Art historian and critic",
+    "shortDescription": "English art critic who drew up the founding acquisitions list for Guggenheim's planned London museum.",
+    "description": "Read agreed to direct a museum of modern art Guggenheim planned to open in London in 1939, and worked with her on an ambitious list of works to acquire. The war intervened before the museum ever opened.",
+    "image": "/people/herbert-read.webp",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "17",
+        "chapterTitle": "A Museum in London",
+        "note": "Planning the acquisitions list for the abandoned London museum."
+      }
+    ]
+  }
+]
