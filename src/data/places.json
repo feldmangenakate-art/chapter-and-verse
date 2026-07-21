@@ -1,0 +1,40 @@
+[
+  {
+    "id": "place-venice",
+    "slug": "venice",
+    "name": "Venice",
+    "type": "place",
+    "city": "Venice",
+    "country": "Italy",
+    "shortDescription": "The unfinished palazzo on the Grand Canal where Guggenheim's collection would eventually live.",
+    "description": "Peggy Guggenheim bought the Palazzo Venier dei Leoni in 1949, a single-story palazzo left unfinished on the Grand Canal. She lived among her collection there for the rest of her life, opening the galleries and garden to the public every summer.",
+    "image": "/places/venice.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "24",
+        "chapterTitle": "The Palace",
+        "context": "Guggenheim describes buying the unfinished palazzo and moving her collection in."
+      }
+    ]
+  },
+  {
+    "id": "place-london-cork-street",
+    "slug": "london-cork-street",
+    "name": "Cork Street, London",
+    "type": "place",
+    "city": "London",
+    "country": "United Kingdom",
+    "shortDescription": "Site of Guggenheim Jeune, Peggy's first gallery, opened in 1938.",
+    "description": "At 30 Cork Street, Guggenheim opened her first gallery, Guggenheim Jeune, with a Cocteau exhibition. It ran for eighteen months and lost money on nearly every show, but launched her as a serious presence in the art world.",
+    "image": "/places/cork-street.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "12",
+        "chapterTitle": "Guggenheim Jeune",
+        "context": "The opening of her first gallery and the exhibitions that followed."
+      }
+    ]
+  }
+]

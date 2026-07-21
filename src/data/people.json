@@ -1,0 +1,62 @@
+[
+  {
+    "id": "person-peggy-guggenheim",
+    "slug": "peggy-guggenheim",
+    "name": "Peggy Guggenheim",
+    "type": "person",
+    "birthYear": 1898,
+    "deathYear": 1979,
+    "profession": "Art collector and gallerist",
+    "shortDescription": "American heiress turned collector and gallerist who assembled one of the century's boldest private collections.",
+    "description": "Born into the Guggenheim family, Peggy used her inheritance to back Surrealist and early Abstract Expressionist artists at a moment when almost no one else would. She opened galleries in London and New York and eventually settled her collection permanently in Venice.",
+    "image": "/people/peggy-guggenheim.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "1-31",
+        "chapterTitle": "throughout",
+        "context": "Narrator and subject of the memoir."
+      }
+    ]
+  },
+  {
+    "id": "person-max-ernst",
+    "slug": "max-ernst",
+    "name": "Max Ernst",
+    "type": "person",
+    "birthYear": 1891,
+    "deathYear": 1976,
+    "profession": "Painter and sculptor",
+    "shortDescription": "German Surrealist painter, briefly married to Guggenheim in the early 1940s.",
+    "description": "A founding figure of Dada and Surrealism, Ernst fled occupied France with Guggenheim's help and married her in New York in 1941. The marriage lasted a few years, but his work remained central to her collection long after.",
+    "image": "/people/max-ernst.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "19",
+        "chapterTitle": "Max",
+        "context": "Their courtship, marriage, and eventual separation."
+      }
+    ]
+  },
+  {
+    "id": "person-jackson-pollock",
+    "slug": "jackson-pollock",
+    "name": "Jackson Pollock",
+    "type": "person",
+    "birthYear": 1912,
+    "deathYear": 1956,
+    "profession": "Painter",
+    "shortDescription": "American painter Guggenheim put under contract before the rest of the art world took notice.",
+    "description": "Guggenheim gave Pollock his first solo show in 1943 and a monthly stipend that let him paint full-time, betting on an artist almost no one else was backing yet.",
+    "image": "/people/jackson-pollock.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "27",
+        "chapterTitle": "Out of the West",
+        "context": "Guggenheim recalls commissioning Mural and putting Pollock on a stipend."
+      }
+    ]
+  }
+]

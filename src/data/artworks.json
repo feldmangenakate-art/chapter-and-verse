@@ -1,0 +1,23 @@
+[
+  {
+    "id": "artwork-mural-pollock",
+    "slug": "mural-pollock",
+    "name": "Mural",
+    "type": "artwork",
+    "artist": "Jackson Pollock",
+    "year": "1943",
+    "medium": "Oil on canvas",
+    "currentLocation": "University of Iowa Stanley Museum of Art",
+    "shortDescription": "An eight-metre canvas commissioned for Guggenheim's townhouse hallway.",
+    "description": "Guggenheim commissioned this mural-sized canvas for the entrance hall of her New York townhouse. Pollock is said to have finished the entire painting in a single overnight sitting, working right up to the deadline of its unveiling party.",
+    "image": "/artworks/mural-pollock.jpg",
+    "appearances": [
+      {
+        "bookId": "book-out-of-this-century",
+        "chapter": "27",
+        "chapterTitle": "Out of the West",
+        "context": "The commission, the deadline, and the party where it was unveiled."
+      }
+    ]
+  }
+]
