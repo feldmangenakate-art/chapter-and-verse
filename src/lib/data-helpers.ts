@@ -3,7 +3,7 @@ import placesData from "../data/places.json";
 import peopleData from "../data/people.json";
 import artworksData from "../data/artworks.json";
 import eventsData from "../data/events.json";
-import type { Book, Entity, EntityType, Place, Person, Artwork, Event } from "../types/entities";
+import type { Book, Entity, EntityType, Place, Person, Artwork, Event } from "../types";
 
 const books = booksData as Book[];
 const places = placesData as Place[];

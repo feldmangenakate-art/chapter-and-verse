@@ -1,21 +1,21 @@
 import { useState } from "react";
 import { Navigate, useParams } from "react-router-dom";
 import { getBookBySlug, getEntitiesByBook } from "../lib/data-helpers";
-import type { EntityType } from "../types/entities";
+import type { EntityType } from "../types";
 import Tabs from "../components/Tabs";
 import EntityCard from "../components/EntityCard";
 
 const TABS: { value: EntityType; label: string }[] = [
-  { value: "person", label: "People" },
   { value: "place", label: "Places" },
-  { value: "artwork", label: "Art" },
+  { value: "person", label: "People" },
+  { value: "artwork", label: "Artworks" },
   { value: "event", label: "Events" },
 ];
 
 export default function BookPage() {
-  const { bookSlug } = useParams();
+  const { bookId } = useParams();
   const [activeTab, setActiveTab] = useState<EntityType>("place");
-  const book = bookSlug ? getBookBySlug(bookSlug) : undefined;
+  const book = bookId ? getBookBySlug(bookId) : undefined;
 
   if (!book) {
     return <Navigate to="/" replace />;

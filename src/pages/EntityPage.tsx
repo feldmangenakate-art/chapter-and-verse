@@ -1,11 +1,11 @@
 import { Link, Navigate, useParams } from "react-router-dom";
 import { getEntityBySlug, getBookById } from "../lib/data-helpers";
-import type { Appearance, EntityType } from "../types/entities";
+import type { Appearance, EntityType } from "../types";
 import EntityPhoto from "../components/EntityPhoto";
 
 export default function EntityPage() {
-  const { type, slug } = useParams<{ type: EntityType; slug: string }>();
-  const entity = type && slug ? getEntityBySlug(type, slug) : undefined;
+  const { type, id } = useParams<{ type: EntityType; id: string }>();
+  const entity = type && id ? getEntityBySlug(type, id) : undefined;
 
   if (!entity) {
     return <Navigate to="/" replace />;
@@ -45,7 +45,7 @@ function BookAppearanceLink({ appearance }: { appearance: Appearance }) {
     <div className="border-l-2 border-line pl-4">
       <p className="font-display text-sm italic text-accent">
         {book ? (
-          <Link to={`/books/${book.slug}`} className="hover:underline">
+          <Link to={`/book/${book.slug}`} className="hover:underline">
             {book.title}
           </Link>
         ) : (
@@ -55,7 +55,7 @@ function BookAppearanceLink({ appearance }: { appearance: Appearance }) {
         {appearance.chapterTitle ? `, "${appearance.chapterTitle}"` : ""}
       </p>
       <p className="mt-1 font-sans text-[13px] leading-relaxed text-ink-soft">
-        {appearance.context}
+        {appearance.note}
       </p>
     </div>
   );

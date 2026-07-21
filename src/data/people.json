@@ -15,7 +15,7 @@
         "bookId": "book-out-of-this-century",
         "chapter": "1-31",
         "chapterTitle": "throughout",
-        "context": "Narrator and subject of the memoir."
+        "note": "Narrator and subject of the memoir."
       }
     ]
   },
@@ -35,7 +35,7 @@
         "bookId": "book-out-of-this-century",
         "chapter": "19",
         "chapterTitle": "Max",
-        "context": "Their courtship, marriage, and eventual separation."
+        "note": "Their courtship, marriage, and eventual separation."
       }
     ]
   },
@@ -55,7 +55,7 @@
         "bookId": "book-out-of-this-century",
         "chapter": "27",
         "chapterTitle": "Out of the West",
-        "context": "Guggenheim recalls commissioning Mural and putting Pollock on a stipend."
+        "note": "Guggenheim recalls commissioning Mural and putting Pollock on a stipend."
       }
     ]
   }

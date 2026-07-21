@@ -14,7 +14,7 @@
         "bookId": "book-out-of-this-century",
         "chapter": "24",
         "chapterTitle": "The Palace",
-        "context": "Guggenheim describes buying the unfinished palazzo and moving her collection in."
+        "note": "Guggenheim describes buying the unfinished palazzo and moving her collection in."
       }
     ]
   },
@@ -33,7 +33,7 @@
         "bookId": "book-out-of-this-century",
         "chapter": "12",
         "chapterTitle": "Guggenheim Jeune",
-        "context": "The opening of her first gallery and the exhibitions that followed."
+        "note": "The opening of her first gallery and the exhibitions that followed."
       }
     ]
   }

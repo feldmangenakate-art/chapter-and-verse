@@ -9,8 +9,8 @@ export default function App() {
     <Routes>
       <Route element={<Layout />}>
         <Route path="/" element={<HomePage />} />
-        <Route path="/books/:bookSlug" element={<BookPage />} />
-        <Route path="/entities/:type/:slug" element={<EntityPage />} />
+        <Route path="/book/:bookId" element={<BookPage />} />
+        <Route path="/entity/:type/:id" element={<EntityPage />} />
       </Route>
     </Routes>
   );

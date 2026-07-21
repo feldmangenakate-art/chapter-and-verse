@@ -4,7 +4,7 @@ export interface Appearance {
   bookId: string;
   chapter: string;
   chapterTitle?: string;
-  context: string;
+  note: string;
 }
 
 interface BaseEntity {

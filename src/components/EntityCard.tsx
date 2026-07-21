@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import type { Entity } from "../types/entities";
+import type { Entity } from "../types";
 import EntityPhoto from "./EntityPhoto";
 
 interface EntityCardProps {
@@ -11,7 +11,7 @@ export default function EntityCard({ entity, bookId }: EntityCardProps) {
   const appearance = entity.appearances.find((item) => item.bookId === bookId);
 
   return (
-    <Link to={`/entities/${entity.type}/${entity.slug}`} className="group block">
+    <Link to={`/entity/${entity.type}/${entity.slug}`} className="group block">
       <EntityPhoto id={entity.id} image={entity.image} alt={entity.name} />
       <h4 className="mt-3 font-display text-base group-hover:text-accent">{entity.name}</h4>
       <p className="mt-1 font-sans text-[12.5px] leading-relaxed text-ink-soft">
